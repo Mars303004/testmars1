@@ -40,7 +40,7 @@ with tabs[0]:
             fig1 = px.pie(overall_feb, names='BU', values='Expense Finance', title='Expense per BU')
             st.plotly_chart(fig1, use_container_width=True)
 
-            avg_usage = overall_feb['Usage Finance'].mean()
+            avg_usage = overall_feb['Usage'].mean()
             fig_gauge = go.Figure(go.Indicator(
                 mode="gauge+number",
                 value=avg_usage,
