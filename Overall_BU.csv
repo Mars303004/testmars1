@@ -1,0 +1,9 @@
+﻿BU,Budget Finance,Expense Finance,Usage Finance,Revenue Finance,Profit Finance,#of customer Customer,Customer satisfaction Customer,Target Quality,Realization Quality,Target vs Real Quality,Velocity Quality,Quality,Current MP Employee,Needed MP Employee,Competency Employee,Turnover ratio Employee,Bulan Quality
+BU1,600,548,91%,7300,2650,60,4.4,600,557,93%,91%,90%,188,201,92%,5%,31/01/2025
+BU2,480,425,89%,5200,2850,62,4.4,600,557,93%,91%,90%,188,201,92%,5%,31/01/2025
+BU3,600,402,67%,4900,1800,72,4.3,400,359,90%,88%,87%,143,146,94%,4%,31/01/2025
+Total Jan,1680,1375,82%,17400,7300,194,4.3,1600,1473,92%,90%,89%,519,548,92%,5%,31/01/2025
+BU1,600,566,94%,7300,2650,43,4.4,600,560,93%,87%,89%,188,201,94%,5%,28/02/2025
+BU2,480,406,85%,5200,2850,44,4.4,600,560,93%,87%,89%,188,201,94%,5%,28/02/2025
+BU3,600,402,101%,402,402,65,4.2,400,365,91%,88%,88%,140,146,93%,6%,28/02/2025
+Total Feb,1680,1374,93%,12902,5902,152,4.3,1600,1485,93%,87%,89%,516,548,94%,5%,28/02/2025
